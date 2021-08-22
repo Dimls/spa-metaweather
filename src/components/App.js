@@ -1,4 +1,4 @@
-import  MainView  from "./components/MainView";
+import  MainView  from "./MainView";
 
 function App() {
   return (
